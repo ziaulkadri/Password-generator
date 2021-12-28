@@ -12,3 +12,5 @@ This application helps the user create a solid password that cannot be easily gu
 
 ![Screenshot 2021-07-21 at 12 07 13 AM](https://user-images.githubusercontent.com/57566639/126380063-04f4788b-076d-40cb-8da3-a1a8f7db1dbf.png)
 
+using this browsesr character list i generate randomely lower case , upper case character and numbers
+![Screenshot 2021-12-28 at 11 20 02 PM](https://user-images.githubusercontent.com/57566639/147593380-9ff02e64-ebd2-4f50-aa36-8667a7f256e9.png)
